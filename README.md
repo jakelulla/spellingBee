@@ -1,0 +1,2 @@
+# spellingBee
+ NYT spelling bee
